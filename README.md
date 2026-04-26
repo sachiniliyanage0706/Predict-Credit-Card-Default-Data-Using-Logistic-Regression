@@ -25,7 +25,7 @@ The dataset consists of 10,000 observations and includes both numerical and cate
 
 ## 🛠 Tools & Technologies
 
-* R Programming
+* R 
 * Statistical Modeling
 
 ## 📈 Methodology
