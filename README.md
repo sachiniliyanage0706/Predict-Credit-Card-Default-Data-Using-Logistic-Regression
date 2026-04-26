@@ -1,10 +1,10 @@
 # 💳 Predict Credit Card Default Data Using Logistic Regression
-⭐ Academic Project | Machine Learning | Credit Risk
+⭐ Academic Project | Machine Learning | Credit Risk|R Programming
 
 
 ## 📌 Overview
 
-This project focuses on predicting whether a customer will default on their credit card using logistic regression. The study aims to understand customer financial behavior and identify key risk factors associated with credit default.
+This project focuses on predicting whether a customer will default on their credit card using logistic regression. The study aims to understand customer financial behavior and identify key risk factors associated with credit default.(using R Programming)
 
 ## 🎯 Objectives
 
